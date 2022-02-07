@@ -10,14 +10,3 @@ class Card:
 
     def __str__(self):
         return self.card
-
-
-if __name__ == '__main__':
-    card1 = Card('egg', 'A1')
-    card2 = Card('egg', 'B1')
-    card3 = Card('hut', 'D4')
-# hold a card
-# matched or not
-# Location
-# __eq__
-# __str__
